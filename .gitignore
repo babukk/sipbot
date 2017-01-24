@@ -1,0 +1,7 @@
+*.log
+*.bak
+nohup.out
+dist/sip_bot
+sip_bot_comtube.conf
+sip_bot_sipnet.conf
+sip_bot_zadarma.conf
