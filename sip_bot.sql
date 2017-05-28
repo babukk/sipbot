@@ -1,5 +1,5 @@
 
-drop table  Calls;
+DROP TABLE  Calls;
 
 CREATE TABLE  Calls (
     id  INT(11) auto_increment,
